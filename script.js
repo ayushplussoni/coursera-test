@@ -1,5 +1,6 @@
  function check ()
 {
+ console.log("HI !!!!");
   var l1=0;var l2=0;var l3=0;var l4=0;var l5=0;var l6=0;
   var arr=["","Android Application Developer","Cyber-Security Analyst/ Database Admin","Data Scientist","Frontend-WEb Developer","Backend Web Developer","Software Developer"];
   
